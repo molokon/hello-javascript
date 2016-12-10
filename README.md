@@ -11,3 +11,5 @@ document.write('<h1>it is a good day</h1>');
 
 <span>Project is published at 
 https://molokon.github.io/hello-javascript/<span>
+
+JavaScript logo image added to project.
